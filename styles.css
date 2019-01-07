@@ -1,0 +1,11 @@
+footer{
+	color:red;
+}
+header a{
+	color: blue;
+	text-decoration: none;
+}
+header a.active{
+	color: blue;
+	text-decoration: underline;
+}
