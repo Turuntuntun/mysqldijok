@@ -4,7 +4,7 @@
 
     $host = 'localhost';
     $user = 'root';
-    $password = 'nfnmzyf40404';
+    $password = '';
     $dbName = 'test1';
 
     session_start();
